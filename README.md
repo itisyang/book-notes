@@ -1,5 +1,4 @@
-# book-notes
-*自修计算机科学课程，学习笔记*  
+*我的阅读笔记，学习笔记*  
 
 
 ### [深度探索C++对象模型](https://github.com/itisyang/programming-book-notes/blob/master/深度探索C++对象模型.md)  
